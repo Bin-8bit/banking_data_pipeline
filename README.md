@@ -1,5 +1,3 @@
-# banking_data_pipeline
-End-to-End Data Pipeline for Banking Card Analytics &amp; Fraud Detection.
 # Banking Data Pipeline: ETL & Data Cleaning
 
 This repository contains the Python ('.ipynb') code for the ETL (Extract, Transform, Load) and Data Cleaning phase of the **End-to-End Banking Card Analytics & Fraud Detection** project.
