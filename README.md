@@ -14,4 +14,4 @@ This repository contains the Python ('.ipynb') code for the ETL (Extract, Transf
 * Logical Missing Value Imputation: Handled nulls based on business context, such as filling missing errors with "No Error", and missing merchant_state or zip with "Unknown".
 * Outlier Preservation: Deliberately retained business-critical outliers (e.g., massive transaction amounts, negative chargebacks) to train the Fraud Detection model effectively on real-world anomalies.
 
-👉 **View Full Project Portfolio:** https://jazzy-glade-f06.notion.site/3a56ce984c60804d9429fdbfeb3353e7
+👉 **View Full Project Portfolio:** https://jazzy-glade-f06.notion.site/3a56ce984c60804d9429fdbfeb3353e7](https://jazzy-glade-f06.notion.site/H-Th-ng-Ph-n-T-ch-D-ng-Ti-n-C-nh-B-o-R-i-Ro-Th-Ng-n-H-ng-3a56ce984c60804d9429fdbfeb3353e7
